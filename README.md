@@ -88,7 +88,7 @@ passengers.each do |suite, name|
   end
 end
 
-winner  
+winner
 ```
 
 If you run your tests now, you should be passing.
